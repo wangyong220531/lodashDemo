@@ -1,4 +1,4 @@
-# 安装loadash
+# 安装lodash
 
 ```shell
 yarn add lodash
